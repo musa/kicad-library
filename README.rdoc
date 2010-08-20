@@ -1,0 +1,1 @@
+Crie links para as pastas library e modules em kicad/share/
