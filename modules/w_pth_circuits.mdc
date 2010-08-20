@@ -1,0 +1,57 @@
+PCBNEW-LibDoc----V1  22/5/2007-19:09:32
+#
+$MODULE dil_14-300_socket
+Li dil_14-300_socket
+Cd IC, DIL14 x 0,3", with socket
+Kw DIL
+$EndMODULE
+#
+$MODULE dil_16-300_socket
+Li dil_16-300_socket
+Cd IC, DIL16 x 0,3", with socket
+Kw DIL
+$EndMODULE
+#
+$MODULE dil_18-300_socket
+Li dil_18-300_socket
+Cd IC, DIL18 x 0,3", with socket
+Kw DIL
+$EndMODULE
+#
+$MODULE dil_20-300_socket
+Li dil_20-300_socket
+Cd IC, DIL20 x 0,3", with socket
+Kw DIL
+$EndMODULE
+#
+$MODULE dil_22-300_socket
+Li dil_22-300_socket
+Cd IC, DIL22 x 0,3", with socket
+Kw DIL
+$EndMODULE
+#
+$MODULE dil_24-300_socket
+Li dil_24-300_socket
+Cd IC, DIL24 x 0,3", with socket
+Kw DIL
+$EndMODULE
+#
+$MODULE dil_28-300_socket
+Li dil_28-300_socket
+Cd IC, DIL28 x 0,3", with socket
+Kw DIL
+$EndMODULE
+#
+$MODULE dil_8-300_socket
+Li dil_8-300_socket
+Cd IC, DIL8 x 0,3", with socket
+Kw DIL
+$EndMODULE
+#
+$MODULE dil_6-300_socket
+Li dil_6-300_socket
+Cd IC, DIL6 x 0,3", with socket
+Kw DIL
+$EndMODULE
+#
+$EndLIBDOC

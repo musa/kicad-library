@@ -1,0 +1,63 @@
+EESchema-DOCLIB  Version 2.0  Date: gio 23 apr 2009 21:13:15 CEST
+#
+$CMP AD5320-MSOP
+D 12 bit RRO DAC, MSOP-8
+K DAC AD5320
+$ENDCMP
+#
+$CMP FAN7382
+D Half-Bridge Mosfet driver, HI-side and LO-side
+F /home/walter/Documents/Elettronica/DATA_SHEET/Integrati/Analogici/Drivers/FCD_FAN7382.pdf
+$ENDCMP
+#
+$CMP IR2183
+D Half-Bridge Mosfet driver, HI-side and LO-side
+F /home/walter/Documents/Elettronica/DATA_SHEET/Integrati/Analogici/Drivers/IR_IR2183.pdf
+$ENDCMP
+#
+$CMP LM2731
+D 0.6/1.6 MHz Boost Converters With 22V Internal FET Switch in SOT-23
+F /home/walter/Documents/Elettronica/DATA_SHEET/Integrati/Analogici/Switcher/NSC_LM2731.pdf
+$ENDCMP
+#
+$CMP LM311
+D Voltage comparator
+F /mnt/dati/documenti/Elettronica/DATA_SHEET/Integrati/Analogici/Opamp/NSC_LM111-211-311.pdf
+$ENDCMP
+#
+$CMP LM324
+D Low Power Quad Operational Amplifiers
+F /mnt/dati/documenti/Elettronica/DATA_SHEET/Integrati/Analogici/Opamp/NSC_LM124-224-324-2902.pdf
+$ENDCMP
+#
+$CMP LM3402
+D 0.5A Constant Current Buck Regulator for Driving High Power LEDs
+F /home/walter/Documents/Elettronica/DATA_SHEET/Integrati/Analogici/Drivers/NSC_LM3402.pdf
+$ENDCMP
+#
+$CMP LM358
+D Low Power Dual Operational Amplifiers
+F /home/walter/Documents/Elettronica/DATA_SHEET/Integrati/Analogici/Opamp/TI_lm2904.pdf
+$ENDCMP
+#
+$CMP MC34063
+D 1.5A step up/down/inverting switching regulator
+F regulator/mc34063.pdf
+$ENDCMP
+#
+$CMP NE555
+D NE555 timer
+F /mnt/dati/documenti/Elettronica/DATA_SHEET/Integrati/Analogici/Clock/ST_NE555.pdf
+$ENDCMP
+#
+$CMP TL431
+D Programmable shunt regulator
+F /mnt/dati/documenti/Elettronica/DATA_SHEET/Integrati/Analogici/Regolatori/FCD_TL431.pdf
+$ENDCMP
+#
+$CMP TS925I
+D RR High Out Current OpAmp
+F /mnt/dati/documenti/Elettronica/DATA_SHEET/Integrati/Analogici/Opamp/ST_TS925.pdf
+$ENDCMP
+#
+#End Doc Library
